@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Github-profile/static/css/main.1e4c0759.css",
-    "main.js": "/Github-profile/static/js/main.4e72b62b.js",
-    "static/js/453.c5f6aa3c.chunk.js": "/Github-profile/static/js/453.c5f6aa3c.chunk.js",
-    "static/media/fa-solid-900.woff2": "/Github-profile/static/media/fa-solid-900.8ae0d37556ff1e685de2.woff2",
-    "static/media/fa-brands-400.woff2": "/Github-profile/static/media/fa-brands-400.1c5c7716b05754cb4eab.woff2",
-    "static/media/fa-regular-400.woff2": "/Github-profile/static/media/fa-regular-400.6f05ca9ab7b5345dbc07.woff2",
-    "static/media/fa-v4compatibility.woff2": "/Github-profile/static/media/fa-v4compatibility.e4340c52a50e727c6afa.woff2",
-    "index.html": "/Github-profile/index.html",
-    "main.1e4c0759.css.map": "/Github-profile/static/css/main.1e4c0759.css.map",
-    "main.4e72b62b.js.map": "/Github-profile/static/js/main.4e72b62b.js.map",
-    "453.c5f6aa3c.chunk.js.map": "/Github-profile/static/js/453.c5f6aa3c.chunk.js.map"
+    "main.css": "/ContactApp/static/css/main.4adb9cf1.css",
+    "main.js": "/ContactApp/static/js/main.e475bae5.js",
+    "static/js/453.c5f6aa3c.chunk.js": "/ContactApp/static/js/453.c5f6aa3c.chunk.js",
+    "static/media/fa-solid-900.woff2": "/ContactApp/static/media/fa-solid-900.8ae0d37556ff1e685de2.woff2",
+    "static/media/fa-brands-400.woff2": "/ContactApp/static/media/fa-brands-400.1c5c7716b05754cb4eab.woff2",
+    "static/media/fa-regular-400.woff2": "/ContactApp/static/media/fa-regular-400.6f05ca9ab7b5345dbc07.woff2",
+    "static/media/fa-v4compatibility.woff2": "/ContactApp/static/media/fa-v4compatibility.e4340c52a50e727c6afa.woff2",
+    "index.html": "/ContactApp/index.html",
+    "main.4adb9cf1.css.map": "/ContactApp/static/css/main.4adb9cf1.css.map",
+    "main.e475bae5.js.map": "/ContactApp/static/js/main.e475bae5.js.map",
+    "453.c5f6aa3c.chunk.js.map": "/ContactApp/static/js/453.c5f6aa3c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e4c0759.css",
-    "static/js/main.4e72b62b.js"
+    "static/css/main.4adb9cf1.css",
+    "static/js/main.e475bae5.js"
   ]
 }
